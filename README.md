@@ -2,7 +2,7 @@
 it can be much more, but for example its PhoneBook
 # What it can even do?
 add
-show everything 
+show everything   
 show specific
 delete specific
 save to txt file 
